@@ -24,13 +24,6 @@ Objectives
 GitHub:https://github.com/Saikooo0
 LinkedIn: https://www.linkedin.com/in/isaac-kier-riola-b189673a9/
 
-## Installation Screenshots
-![Git version](screenshots/git-version.png)
-![GitHub Desktop](screenshots/github-desktop.png)
-![Visual Studio Code](screenshots/vscode.png)
-![VirtualBox](screenshots/virtualbox.png)
-![Ubuntu VM running](screenshots/ubuntu-vm.png)
-![Windows VM running](screenshots/windows-vm.png)
 
 ## Challenges Encountered
 
